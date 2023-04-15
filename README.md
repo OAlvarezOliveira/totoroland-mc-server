@@ -1,19 +1,3 @@
-Totoroland Server
-¡Bienvenidos al servidor de Minecraft  Totoroland! 
-Este es un servidor privado creado exclusivamente para los estudiantes de nuestra clase, donde podrán disfrutar y explorar juntos el mundo de Minecraft.
-
-!!!!Conectándose al Servidor!!!! try 2
-
-Para unirse al servidor, primero debes tener una cuenta de Minecraft Bedrock. 
-Una vez que hayas iniciado sesión en tu cuenta de Minecraft Bedrock, sigue estos pasos para unirte al servidor:
-Abre el juego de Minecraft Bedrock.
-Haz clic en "Jugar".
-Selecciona la opción "Servidores".
-Haz clic en "Agregar Servidor".
-Ingresa el nombre del servidor como "Totoroland Server".
-En la sección "Dirección del Servidor", ingresa totoroland.ddns.net.
-Haz clic en "Agregar Servidor" para guardar la información del servidor.
-Haz clic en el servidor de Totoroland para unirte.
 
 Reglas del Servidor
 Para garantizar una experiencia de juego divertida y justa para todos los jugadores, se aplicarán las siguientes reglas:
