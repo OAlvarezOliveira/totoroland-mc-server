@@ -5,6 +5,12 @@ body {
     line-height: 1.5;
   }
   
+  body {
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
   /* Colores */
   body {
     background-color: #fff;
